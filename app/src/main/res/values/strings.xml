@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruf</string>
+    <!--Change language-->
+    <string name="office">Văn phòng</string>
+    <string name="contact">Liên hệ</string>
+    <string name="faq">Hỏi đáp</string>
+    <string name="left">Trượt phải để xem khoản thanh toán</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="no_login">Tôi không đăng nhập được</string>
+    <string name="login">Đăng nhập</string>
+    <string name="no_username">Tôi chưa có tên đăng nhập</string>
+    <string name="fru">Công ty tài chính Shinhan Việt Nam</string>
+    <string name="terms_of_use">Điều khoản sử dụng</string>
+    <string name="version">Phiên bản 1.0</string>
+    //
+    <string name="key_api">AIzaSyDcaK8jfTrgpTR4o7gY7pFfqOWT6cclTTw</string>
+    <string name="key_direction">AIzaSyCSV_fwscaWGn5iaP2JsRv7Sc2w1_ri7ik</string>
+</resources>

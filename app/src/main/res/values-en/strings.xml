@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruf</string>
+    <!--Change language-->
+    <string name="office">Office</string>
+    <string name="contact">Contact</string>
+    <string name="faq">Faq</string>
+    <string name="left">Slide right to see payment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="no_login">I can not sign in</string>
+    <string name="login">Login</string>
+    <string name="no_username">I have no username</string>
+    <string name="fru">Shinhan VietNam Finance Company</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="version">Version 1.0</string>
+</resources>
